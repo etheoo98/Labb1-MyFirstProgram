@@ -1,6 +1,6 @@
 ﻿/*
  * Author: Theodor Hägg (.NET23)
- * GitHub: https://github.com/etheoo98/MyFirstProgram
+ * Website: https://github.com/etheoo98/Labb1-MyFirstProgram
  * Date: September 12, 2023
  */
 
