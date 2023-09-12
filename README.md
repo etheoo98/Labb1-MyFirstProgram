@@ -14,6 +14,7 @@ C# console application made for yet another beginners programming course.
 * Add a comment at the top of the code with your name and class.
 
 ## Example
+Here is an example of what it might look like when your program runs in the console if the number was 11 and the user entered the name Tobias.
 ```
 The number is large!
 What is your name?
